@@ -1,5 +1,5 @@
 Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](blob:https://vercel.com/6691e0e6-6c93-4f56-97a6-efc06d7bf0d8)
+![eCommerce](https://cdn.sanity.io/images/pko5inrv/production/580c49eb4a48b8e105f79786bcc92d8da6bc1f2d-1850x2852.png?w=2000&fit=max&auto=format)
 
 
 ## Launch your development career with project-based coaching - https://official-blog-website.netlify.app
