@@ -1,7 +1,7 @@
 Modern Full Stack ECommerce Application with Stripe & Sanity
 ![eCommerce](https://cdn.sanity.io/images/pko5inrv/production/580c49eb4a48b8e105f79786bcc92d8da6bc1f2d-1850x2852.png?w=2000&fit=max&auto=format)
 
-## Launch your development career with project-based coaching - https://official-blog-website.netlify.app
+## Launch your development career with project-based coaching - https://imaginary-realms.in
 
 **Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project that you can currently find on YouTube { https://www.youtube.com/@codewithabdur }!
 
